@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrSpacheman
+- 👋 Hi, I’m Sean (@DrSpacheman)
 - 👀 I’m interested in human clinical trial outcomes, and data simulation
 - 🌱 I’m currently learning R-vine copulas, and novel outcome markers (patient collected data, fluid biomarkers)
 - 💞️ I’m looking to collaborate on virtual patient simulations
